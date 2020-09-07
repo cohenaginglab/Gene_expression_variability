@@ -1,6 +1,6 @@
 # Analysis scripts for Dufour **et al**. Physiological System Dysregulation in Gene Expression Correlates Negatively with Age
 
-The manuscript will be submitted to [eLife's special issue on aging, geroscience and longevity.](https://elifesciences.org/inside-elife/4f706531/special-issue-call-for-papers-in-aging-geroscience-and-longevity?utm_source=civimail&utm_medium=email&utm_campaign=aging_special_issue_announcement) 
+The manuscript was submitted to [eLife's special issue on aging, geroscience and longevity.](https://elifesciences.org/inside-elife/4f706531/special-issue-call-for-papers-in-aging-geroscience-and-longevity?utm_source=civimail&utm_medium=email&utm_campaign=aging_special_issue_announcement) 
 
 The "script" directory includes scripts for:
 1. [sample quality control](./Step1_QC_Clustering.R) 
